@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/stocks",
+    "bodyFileName": "POST-stocks-OK201.json"
+  },
+  "response": {
+    "status": 201
+  }
+}

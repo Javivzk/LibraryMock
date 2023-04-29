@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PUT",
+    "url": "/rent/10"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "PUT-rentnoexistentKO404.json"
+  }
+}

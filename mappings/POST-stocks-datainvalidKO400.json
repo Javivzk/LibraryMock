@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/stocks",
+    "bodyFileName": "POST-stocks-datainvalidKO400.json"
+  },
+  "response": {
+    "status": 400
+  }
+}

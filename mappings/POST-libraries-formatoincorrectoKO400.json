@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPath": "/libraries"
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "POST-libraries-formatoincorrectoKO400.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

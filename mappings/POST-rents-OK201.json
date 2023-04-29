@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/rents"
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "POST-rents-OK201.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

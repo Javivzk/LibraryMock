@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/libraries"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "GET-libraries-OK200.json"
+  }
+}

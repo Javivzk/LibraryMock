@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PUT",
+    "urlPathPattern": "/stock/([0-9]+)"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "PUT-stocksOK200.json"
+  }
+}

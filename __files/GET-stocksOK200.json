@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "bookId": 123,
+    "quantity": 5
+  },
+  {
+    "id": 2,
+    "bookId": 456,
+    "quantity": 2
+  }
+]

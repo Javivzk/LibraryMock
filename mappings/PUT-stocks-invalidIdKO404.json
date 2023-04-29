@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PUT",
+    "urlPathPattern": "/stock/([0-9]+)"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "PUT-stocks-invalidIdKO404.json"
+  }
+}

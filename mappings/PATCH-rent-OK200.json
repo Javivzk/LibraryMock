@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PATCH",
+    "urlPath": "/rents/{rentId}"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "PATCH-rent-OK200.json"
+  }
+}

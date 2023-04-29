@@ -1,0 +1,16 @@
+{
+  "request": {
+    "method": "PATCH",
+    "urlPath": "/library/{libraryId}",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "PATCH-library-invaliddataKO400.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

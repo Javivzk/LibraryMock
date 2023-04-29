@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PATCH",
+    "url": "/stock/999",
+    "response": {
+      "status": 404,
+      "bodyFileName": "PATCH-rent-noexisteKO404.json"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "request": {
+    "method": "PATCH",
+    "url": "/stock/123",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "PATCH-stock-cantidadinvalidaKO400.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PATCH",
+    "url": "/stock/123"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "PATCH-stock-OK200.json"
+  }
+}

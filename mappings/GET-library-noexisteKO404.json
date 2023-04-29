@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/libraries/999"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "GET-library-noexisteKO404.json"
+  }
+}

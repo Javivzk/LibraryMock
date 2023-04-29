@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/rents/abc"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "GET-renta-por-id-invalidoKO404.json"
+  }
+}

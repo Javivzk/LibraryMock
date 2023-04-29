@@ -1,0 +1,12 @@
+{
+  "id": 123,
+  "user": {
+    "id": 456,
+    "name": "John Doe"
+  },
+  "book": {
+    "id": 789,
+    "title": "The Hitchhiker's Guide to the Galaxy"
+  },
+  "status": "devuelta"
+}

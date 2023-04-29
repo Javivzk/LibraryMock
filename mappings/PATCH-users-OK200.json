@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PATCH",
+    "urlPattern": "/users/123"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "PATCH-users-OK200.json"
+  }
+}

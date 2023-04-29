@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PUT",
+    "url": "/rents/1"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "PUT-rentOK200.json"
+  }
+}

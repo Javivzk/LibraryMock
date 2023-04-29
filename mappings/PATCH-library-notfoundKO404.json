@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PATCH",
+    "urlPattern": "/library/456",
+    "response": {
+      "status": 404,
+      "bodyFileName": "PATCH-library-notfoundKO404.json"
+    }
+  }
+}

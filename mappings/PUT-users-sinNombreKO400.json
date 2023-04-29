@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PUT",
+    "url": "/users",
+    "bodyFileName": "PUT-users-sinNombreKO400.json"
+  },
+  "response": {
+    "status": 400
+  }
+}

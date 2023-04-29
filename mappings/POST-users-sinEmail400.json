@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/users",
+    "bodyFileName": "POST-users-sinEmail400.json"
+  },
+  "response": {
+    "status": 400
+  }
+}

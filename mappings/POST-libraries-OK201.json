@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/libraries"
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "POST-libraries-OK201.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/stocks",
+    "bodyFileName": "POST-stocks-idnoexisteKO404.json"
+  },
+  "response": {
+    "status": 404
+  }
+}

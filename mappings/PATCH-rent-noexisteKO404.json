@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PATCH",
+    "urlPath": "/rents/{rentId}",
+    "response": {
+      "status": 404,
+      "bodyFileName": "PATCH-rent-noexisteKO404.json"
+    }
+  }
+}

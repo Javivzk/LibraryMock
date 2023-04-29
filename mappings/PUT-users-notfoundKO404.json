@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PUT",
+    "url": "/users/999"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "PUT-users-notfoundKO404.json"
+  }
+}

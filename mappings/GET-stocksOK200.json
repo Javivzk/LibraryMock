@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/stocks"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "GET-stocksOK200.json"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/users",
+    "bodyFileName": "POST-users-OK201.json"
+  },
+  "response": {
+    "status": 201
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "request": {
+    "method": "PUT",
+    "urlPattern": "/library/([0-9]+)",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "PUT-library-OK200.json"
+  }
+}

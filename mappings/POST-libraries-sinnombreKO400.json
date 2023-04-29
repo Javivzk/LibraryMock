@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/libraries",
+    "bodyFileName": "POST-libraries-sinnombreKO400.json"
+  },
+  "response": {
+    "status": 400
+  }
+}

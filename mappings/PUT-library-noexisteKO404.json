@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PUT",
+    "url": "/library/10"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "PUT-library-noexisteKO404.json"
+  }
+}
