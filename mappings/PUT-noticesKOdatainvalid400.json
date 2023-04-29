@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PUT",
+    "urlPattern": "/notice/[0-9]+"
+},
+  "response": {
+    "status": 400,
+    "bodyFileName": "PUT-noticesKOdatainvalid400.json"
+  }
+}

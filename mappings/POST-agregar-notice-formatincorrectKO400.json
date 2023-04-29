@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPath": "/notices"
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "POST-agregar-notice-formatincorrectKO400.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

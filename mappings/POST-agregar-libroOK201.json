@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/libros"
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "POST-agregar-libroOK201.json"
+  }
+}

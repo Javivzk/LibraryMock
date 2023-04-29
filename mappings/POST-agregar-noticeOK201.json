@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/notices"
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "addNoticeResponse.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

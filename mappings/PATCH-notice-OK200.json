@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PATCH",
+    "urlPathPattern": "/notice/[0-9]+"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "PATCH-notice-OK200.json"
+  }
+}

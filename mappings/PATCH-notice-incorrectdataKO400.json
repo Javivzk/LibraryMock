@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PATCH",
+    "urlPathPattern": "/notice/[0-9]+"
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "PATCH-notice-incorrectdataKO400.json"
+  }
+}

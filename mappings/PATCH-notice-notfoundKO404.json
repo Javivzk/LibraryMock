@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PATCH",
+    "urlPathPattern": "/notice/[0-9]+"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "PATCH-notice-notfoundKO404.json"
+  }
+}

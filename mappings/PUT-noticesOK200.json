@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PUT",
+    "urlPattern": "/notice/[0-9]+"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "PUT-noticesOK200.json"
+  }
+}

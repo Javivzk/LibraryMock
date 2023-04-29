@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/books"
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "POST-agregar-libro-incompletoKO400.json"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/book/invalid"
+  },
+  "response": {
+    "status": 404,
+    "headers": {
+      "Content-Type": "text/plain"
+    },
+    "bodyFileName": "GET-books-invalid-idKO404.json"
+  }
+}

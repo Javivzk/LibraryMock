@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "PUT",
+    "urlPattern": "/notice/[0-9]+"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "PUT-noticeKOinexistente404.json"
+  }
+}
