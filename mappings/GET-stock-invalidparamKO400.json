@@ -1,13 +1,8 @@
 {
   "request": {
     "method": "GET",
-    "url": "/stocks?invalidParam=value",
-  "queryParameters": {
-    "hasStock": {
-      "doesNotExist": "si"
-    }
-  }
-},
+    "url": "/stocks?invalidParam=value"
+  },
 "response": {
 "status": 400,
 "headers": {

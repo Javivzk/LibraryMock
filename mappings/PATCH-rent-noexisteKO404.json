@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "PATCH",
-    "urlPattern": "/rent/([0-9]+)",
-    "response": {
-      "status": 404,
-      "headers": {
-        "Content-Type": "application/json"
-      },
-      "bodyFileName": "PATCH-rent-noexisteKO404.json"
+    "urlPattern": "/rent/([0-9]+)"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "PATCH-rent-noexisteKO404.json",
+    "headers": {
+      "Content-Type": "application/json"
     }
   }
 }

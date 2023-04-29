@@ -1,12 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/notices",
-    "queryParameters": {
-      "titleNotice": {
-        "doesNotExist": true
-      }
-    }
+    "url": "/notices/EE"
   },
   "response": {
     "status": 400,

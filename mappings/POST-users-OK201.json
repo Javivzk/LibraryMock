@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "POST",
-    "url": "/users",
-    "bodyFileName": "POST-users-OK201.json"
+    "url": "/users"
   },
   "response": {
     "status": 201,
     "headers": {
       "Content-Type": "application/json"
-    }
+    },
+    "bodyFileName": "POST-users-OK201.json"
   }
 }

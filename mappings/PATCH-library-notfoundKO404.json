@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "PATCH",
-    "url": "/library/456",
-    "response": {
-      "status": 404,
-      "headers": {
-        "Content-Type": "application/json"
-      },
-      "bodyFileName": "PATCH-library-notfoundKO404.json"
+    "url": "/library/456"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "PATCH-library-notfoundKO404.json",
+    "headers": {
+      "Content-Type": "application/json"
     }
   }
 }

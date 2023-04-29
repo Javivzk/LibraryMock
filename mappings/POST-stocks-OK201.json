@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "POST",
-    "url": "/stocks",
-    "bodyFileName": "POST-stocks-OK201.json"
+    "url": "/stocks"
   },
   "response": {
     "status": 201,
     "headers": {
       "Content-Type": "application/json"
-    }
+    },
+    "bodyFileName": "POST-stocks-OK201.json"
   }
 }

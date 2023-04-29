@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "POST",
-    "url": "/libraries",
-    "bodyFileName": "POST-libraries-sinnombreKO400.json"
+    "url": "/libraries"
   },
   "response": {
     "status": 400,
     "headers": {
       "Content-Type": "application/json"
-    }
+    },
+    "bodyFileName": "POST-libraries-sinnombreKO400.json"
   }
 }

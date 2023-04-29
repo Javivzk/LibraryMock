@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "PATCH",
-    "url": "/user/456",
-    "response": {
-      "status": 404,
-      "headers": {
-        "Content-Type": "application/json"
-      },
-      "bodyFileName": "PATCH-users-noexisteKO404.json"
+    "url": "/user/456"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "PATCH-users-noexisteKO404.json",
+    "headers": {
+      "Content-Type": "application/json"
     }
   }
 }

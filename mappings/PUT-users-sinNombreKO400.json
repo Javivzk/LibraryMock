@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "PUT",
-    "url": "/user",
-    "bodyFileName": "PUT-users-sinNombreKO400.json"
+    "url": "/user"
   },
   "response": {
     "status": 400,
     "headers": {
       "Content-Type": "application/json"
-    }
+    },
+    "bodyFileName": "PUT-users-sinNombreKO400.json"
   }
 }

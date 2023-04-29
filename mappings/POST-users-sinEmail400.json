@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "POST",
-    "url": "/users",
-    "bodyFileName": "POST-users-sinEmail400.json"
+    "url": "/users"
   },
   "response": {
     "status": 400,
     "headers": {
       "Content-Type": "application/json"
-    }
+    },
+    "bodyFileName": "POST-users-sinEmail400.json"
   }
 }

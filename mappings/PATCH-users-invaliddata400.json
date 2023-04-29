@@ -1,10 +1,7 @@
 {
   "request": {
     "method": "PATCH",
-    "url": "/user/123",
-    "headers": {
-      "Content-Type": "application/json"
-    }
+    "url": "/user/123"
   },
   "response": {
     "status": 400,

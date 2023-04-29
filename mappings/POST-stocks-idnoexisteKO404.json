@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "POST",
-    "url": "/stocks",
-    "bodyFileName": "POST-stocks-idnoexisteKO404.json"
+    "url": "/stocks"
   },
   "response": {
     "status": 404,
     "headers": {
       "Content-Type": "application/json"
-    }
+    },
+    "bodyFileName": "POST-stocks-idnoexisteKO404.json"
   }
 }

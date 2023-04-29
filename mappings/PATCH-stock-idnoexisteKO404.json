@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "PATCH",
-    "url": "/stock/999",
-    "response": {
-      "status": 404,
-      "headers": {
-        "Content-Type": "application/json"
-      },
-      "bodyFileName": "PATCH-stock-idnoexisteKO404.json"
+    "url": "/stock/999"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "PATCH-stock-idnoexisteKO404.json",
+    "headers": {
+      "Content-Type": "application/json"
     }
   }
 }

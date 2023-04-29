@@ -1,13 +1,13 @@
 {
   "request": {
-    "method": "POST",
-    "url": "/users"
+    "method": "GET",
+    "url": "/users/aa"
   },
   "response": {
     "status": 400,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "POST-users-sinNameKO400.json"
+    "bodyFileName": "GET-users-KO400.json"
   }
 }

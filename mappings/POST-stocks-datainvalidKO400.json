@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "POST",
-    "url": "/stocks",
-    "bodyFileName": "POST-stocks-datainvalidKO400.json"
+    "url": "/stocks"
   },
   "response": {
     "status": 400,
     "headers": {
       "Content-Type": "application/json"
-    }
+    },
+    "bodyFileName": "POST-stocks-datainvalidKO400.json"
   }
 }
