@@ -1,9 +1,12 @@
 {
   "request": {
     "method": "PATCH",
-    "urlPattern": "/user/456",
+    "url": "/user/456",
     "response": {
       "status": 404,
+      "headers": {
+        "Content-Type": "application/json"
+      },
       "bodyFileName": "PATCH-users-noexisteKO404.json"
     }
   }

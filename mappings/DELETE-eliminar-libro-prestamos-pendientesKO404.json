@@ -8,6 +8,6 @@
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "DELETE-eliminar-libro-no-encontradoKO404.json"
+    "bodyFileName": "DELETE-eliminar-libro-prestamos-pendientesKO404.json"
   }
 }

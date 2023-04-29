@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "DELETE",
-    "url": "/users/456"
+    "urlPattern": "/user/[0-9]+"
   },
   "response": {
     "status": 404,

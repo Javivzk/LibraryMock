@@ -1,10 +1,13 @@
 {
   "request": {
     "method": "GET",
-    "url": "/users/1"
+    "url": "/user/1"
   },
   "response": {
     "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
     "bodyFileName": "GET-users-poridOK200.json"
   }
 }

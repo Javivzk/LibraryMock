@@ -1,0 +1,18 @@
+{
+  "libraries": [
+    {
+      "id": 1,
+      "name": "Biblioteca Municipal",
+      "address": "Calle Mayor, 1",
+      "phone": "+34 123 456 789",
+      "books": []
+    },
+    {
+      "id": 2,
+      "name": "Biblioteca Nacional",
+      "address": "Paseo del Prado, s/n",
+      "phone": "+34 987 654 321",
+      "books": []
+    }
+  ]
+}

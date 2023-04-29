@@ -5,6 +5,9 @@
     "bodyFileName": "POST-stocks-idnoexisteKO404.json"
   },
   "response": {
-    "status": 404
+    "status": 404,
+    "headers": {
+      "Content-Type": "application/json"
+    }
   }
 }

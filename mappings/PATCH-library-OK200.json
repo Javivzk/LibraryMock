@@ -1,10 +1,13 @@
 {
   "request": {
     "method": "PATCH",
-    "urlPattern": "/library/123"
+    "urlPattern": "/library/([0-9]+)"
   },
   "response": {
     "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
     "bodyFileName": "PATCH-library-OK200.json"
   }
 }

@@ -1,10 +1,13 @@
 {
   "request": {
     "method": "PATCH",
-    "urlPathPattern": "/notice/[0-9]+"
+    "urlPattern": "/notice/([0-9]+)"
   },
   "response": {
     "status": 404,
+    "headers": {
+      "Content-Type": "application/json"
+    },
     "bodyFileName": "PATCH-notice-notfoundKO404.json"
   }
 }

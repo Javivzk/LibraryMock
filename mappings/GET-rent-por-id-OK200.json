@@ -1,10 +1,13 @@
 {
   "request": {
     "method": "GET",
-    "url": "/rents/1"
+    "url": "/rent/1"
   },
   "response": {
     "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
     "bodyFileName": "GET-rent-por-id-OK200.json"
   }
 }

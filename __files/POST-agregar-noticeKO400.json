@@ -1,3 +1,4 @@
 {
-  "error": "Faltan campos requeridos"
+  "error": "Bad Request",
+  "message": "El parámetro proporcionado es incorrecto."
 }

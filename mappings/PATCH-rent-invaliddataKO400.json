@@ -1,10 +1,7 @@
 {
   "request": {
     "method": "PATCH",
-    "urlPath": "/rent/{rentId}",
-    "headers": {
-      "Content-Type": "application/json"
-    }
+    "urlPattern": "/rent/([0-9]+)"
   },
   "response": {
     "status": 400,

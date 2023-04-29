@@ -1,10 +1,13 @@
 {
   "request": {
     "method": "PUT",
-    "url": "/users/999"
+    "url": "/user/999"
   },
   "response": {
     "status": 404,
+    "headers": {
+      "Content-Type": "application/json"
+    },
     "bodyFileName": "PUT-users-notfoundKO404.json"
   }
 }

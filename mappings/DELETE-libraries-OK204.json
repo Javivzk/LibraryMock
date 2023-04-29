@@ -1,12 +1,13 @@
 {
   "request": {
     "method": "DELETE",
-    "urlPattern": "/libraries/[0-9]+"
+    "urlPattern": "/library/[0-9]+"
   },
   "response": {
     "status": 204,
     "headers": {
       "Content-Type": "application/json"
-    }
+    },
+    "bodyFileName": "DELETE-libraries-OK204.json"
   }
 }

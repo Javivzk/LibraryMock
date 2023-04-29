@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "POST",
-    "urlPath": "/libraries"
+    "url": "/libraries"
   },
   "response": {
     "status": 400,

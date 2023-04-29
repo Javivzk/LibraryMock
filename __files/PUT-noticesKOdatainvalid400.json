@@ -1,3 +1,4 @@
 {
-  "error": "Los datos proporcionados son inválidos."
+  "error": "Bad Request",
+  "message": "El parámetro proporcionado es incorrecto."
 }

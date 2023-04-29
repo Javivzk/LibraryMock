@@ -7,10 +7,12 @@
     }
   },
   "response": {
-    "status": 400,
-    "bodyFileName": "PATCH_invalid_fieldKO.json",
+    "status": 200,
+    "bodyFileName": "PATCH-book_authorOK200.json",
     "headers": {
       "Content-Type": "application/json"
     }
   }
 }
+
+

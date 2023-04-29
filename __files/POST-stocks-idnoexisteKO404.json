@@ -1,4 +1,4 @@
 {
-  "bookId": 999,
-  "quantity": 3
+  "internalError": 1,
+  "message": "No se ha podido encontrar el objeto"
 }

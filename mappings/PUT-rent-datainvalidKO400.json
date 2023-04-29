@@ -4,10 +4,10 @@
     "url": "/rent/1"
   },
   "response": {
-    "status": 200,
+    "status": 400,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "PUT-rentOK200.json"
+    "bodyFileName": "PUT-rent-datainvalidKO400.json"
   }
 }

@@ -7,12 +7,10 @@
     }
   },
   "response": {
-    "status": 200,
-    "bodyFileName": "PATCH_book_author.json",
+    "status": 404,
+    "bodyFileName": "PATCH-book-noexiste_book_idKO.json",
     "headers": {
       "Content-Type": "application/json"
     }
   }
 }
-
-

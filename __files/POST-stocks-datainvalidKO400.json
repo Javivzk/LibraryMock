@@ -1,3 +1,4 @@
 {
-  "invalidField": "value"
+  "error": "Bad Request",
+  "message": "El parámetro proporcionado es incorrecto."
 }

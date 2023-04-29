@@ -4,7 +4,10 @@
     "url": "/stock/999",
     "response": {
       "status": 404,
-      "bodyFileName": "PATCH-rent-noexisteKO404.json"
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "PATCH-stock-idnoexisteKO404.json"
     }
   }
 }

@@ -1,0 +1,10 @@
+{
+  "id": "123",
+  "name": "Biblioteca Nacional",
+  "address": {
+    "street": "Av. Independencia",
+    "number": "100",
+    "city": "Buenos Aires",
+    "country": "Argentina"
+  }
+}

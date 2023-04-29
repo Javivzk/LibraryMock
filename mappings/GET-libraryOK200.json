@@ -1,10 +1,13 @@
 {
   "request": {
     "method": "GET",
-    "url": "/libraries/123"
+    "url": "/library/123"
   },
   "response": {
     "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
     "bodyFileName": "GET-libraryOK200.json"
   }
 }

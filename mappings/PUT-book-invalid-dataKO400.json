@@ -1,13 +1,13 @@
 {
   "request": {
-    "method": "DELETE",
+    "method": "PUT",
     "urlPattern": "/book/[0-9]+"
   },
   "response": {
-    "status": 404,
+    "status": 400,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "DELETE-eliminar-libro-no-encontradoKO404.json"
+    "bodyFileName": "PUT-book-invalid-dataKO400.json"
   }
 }

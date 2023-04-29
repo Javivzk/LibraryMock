@@ -1,0 +1,11 @@
+{
+  "id": "1234567890",
+  "title": "El nombre del viento",
+  "author": "Patrick Rothfuss",
+  "publisher": "DAW Books",
+  "publication_year": 2007,
+  "genre": "Fantasía",
+  "description": "La historia de Kvothe, el Asesino de Reyes",
+  "library_id": "0987654321",
+  "stock": 10
+}

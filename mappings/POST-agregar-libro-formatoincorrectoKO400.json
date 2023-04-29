@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "POST",
-    "url": "/libros"
+    "url": "/books"
   },
   "response": {
-    "status": 409,
+    "status": 400,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "POST-agregar-libro-existenteKO.json"
+    "bodyFileName": "POST-agregar-libro-formatoincorrectoKO400.json"
   }
 }

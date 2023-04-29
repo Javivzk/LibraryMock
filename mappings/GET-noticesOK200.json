@@ -8,6 +8,6 @@
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "GETallnoticesOK.json"
+    "bodyFileName": "GET-noticesOK200.json"
   }
 }

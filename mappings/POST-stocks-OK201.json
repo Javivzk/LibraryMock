@@ -5,6 +5,9 @@
     "bodyFileName": "POST-stocks-OK201.json"
   },
   "response": {
-    "status": 201
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    }
   }
 }

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titulo": "El nombre del viento",
+    "autor": "Patrick Rothfuss",
+    "editorial": "Plaza & Janés",
+    "fecha_publicacion": "2007-03-27"
+  },
+  {
+    "id": 2,
+    "titulo": "El temor de un hombre sabio",
+    "autor": "Patrick Rothfuss",
+    "editorial": "Plaza & Janés",
+    "fecha_publicacion": "2011-03-01"
+  }
+]

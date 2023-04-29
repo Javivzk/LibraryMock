@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "DELETE",
-    "urlPattern": "/libraries/[0-9]+"
+    "urlPattern": "/library/[0-9]+"
   },
   "response": {
     "status": 404,

@@ -1,9 +1,12 @@
 {
   "request": {
     "method": "DELETE",
-    "url": "/users/123"
+    "urlPattern": "/user/[0-9]+"
   },
   "response": {
-    "status": 204
+    "status": 204,
+    "headers": {
+      "Content-Type": "application/json"
+    }
   }
 }

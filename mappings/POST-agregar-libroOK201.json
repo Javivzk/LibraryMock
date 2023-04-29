@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "POST",
-    "url": "/libros"
+    "url": "/books"
   },
   "response": {
     "status": 201,

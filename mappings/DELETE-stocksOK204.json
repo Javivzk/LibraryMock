@@ -4,6 +4,10 @@
     "urlPattern": "/stock/[0-9]+"
   },
   "response": {
-    "status": 204
+    "status": 204,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "DELETE-stocksOK204.json"
   }
 }

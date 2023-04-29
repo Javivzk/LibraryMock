@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "PUT",
-    "url": "/rent/1"
+    "urlPattern": "/book/invalid"
   },
   "response": {
-    "status": 200,
+    "status": 400,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "PUT-rentOK200.json"
+    "bodyFileName": "PUT-book-invalid-idKO400.json"
   }
 }

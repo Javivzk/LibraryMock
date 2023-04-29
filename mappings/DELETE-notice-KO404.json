@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "DELETE",
-    "urlPattern": "/notices/[0-9]+"
+    "urlPattern": "/notice/[0-9]+"
   },
   "response": {
     "status": 404,

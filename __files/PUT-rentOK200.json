@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "user_id": 130,
+  "book_id": 458,
+  "rented_at": "2023-04-29T10:00:00Z",
+  "due_date": "2023-05-06T10:00:00Z",
+  "returned_at": null,
+  "status": "devuelto"
+}

@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "PATCH",
-    "urlPattern": "/users/123",
+    "url": "/user/123",
     "headers": {
       "Content-Type": "application/json"
     }

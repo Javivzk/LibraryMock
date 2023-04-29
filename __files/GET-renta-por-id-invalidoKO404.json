@@ -1,4 +1,4 @@
 {
-  "code": 404,
-  "message": "No se encontró la renta solicitada"
+  "internalError": 1,
+  "message": "No se ha podido encontrar el objeto"
 }

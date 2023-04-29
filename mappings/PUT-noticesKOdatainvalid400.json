@@ -5,6 +5,9 @@
 },
   "response": {
     "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
     "bodyFileName": "PUT-noticesKOdatainvalid400.json"
   }
 }

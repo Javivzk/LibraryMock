@@ -5,6 +5,9 @@
     "bodyFileName": "POST-users-sinEmail400.json"
   },
   "response": {
-    "status": 400
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    }
   }
 }

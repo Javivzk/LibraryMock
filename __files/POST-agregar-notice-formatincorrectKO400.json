@@ -1,3 +1,4 @@
 {
-  "error": "Formato incorrecto en uno o varios campos"
+  "error": "Bad Request",
+  "message": "El parámetro proporcionado es incorrecto."
 }

@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "POST",
-    "urlPath": "/notices"
+    "url": "/notices"
   },
   "response": {
     "status": 400,

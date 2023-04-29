@@ -13,6 +13,6 @@
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "notices_invalid_param.json"
+    "bodyFileName": "GET-noticesKO400.json"
   }
 }
