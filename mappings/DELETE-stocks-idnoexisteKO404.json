@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "DELETE",
-    "urlPattern": "/stock/[0-9]+"
+    "urlPattern": "/stock/3"
   },
   "response": {
     "status": 404,

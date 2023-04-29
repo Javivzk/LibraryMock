@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "DELETE",
-    "urlPattern": "/notice/[0-9]+"
+    "urlPattern": "/notice/2"
   },
   "response": {
     "status": 404,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "DELETE-notice-KO404"
+    "bodyFileName": "DELETE-notice-KO404.json"
   }
 }

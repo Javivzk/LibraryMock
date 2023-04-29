@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "PATCH",
-    "urlPattern": "/notice/([0-9]+)"
+    "urlPattern": "/notice/2"
   },
   "response": {
     "status": 400,

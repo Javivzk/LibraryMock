@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "PUT",
-    "url": "/rent/10"
+    "url": "/rent/3"
   },
   "response": {
     "status": 404,

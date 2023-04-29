@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "PATCH",
-    "url": "/stock/999"
+    "url": "/stock/3"
   },
   "response": {
     "status": 404,

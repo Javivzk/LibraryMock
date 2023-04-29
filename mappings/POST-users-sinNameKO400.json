@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "POST",
-    "url": "/users"
+    "url": "/users/2"
   },
   "response": {
     "status": 400,

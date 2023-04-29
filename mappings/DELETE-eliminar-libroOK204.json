@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "DELETE",
-    "urlPattern": "/book/[0-9]+"
+    "urlPattern": "/book/1"
   },
   "response": {
     "status": 204,

@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "POST",
-    "url": "/rents"
+    "url": "/rents/1"
   },
   "response": {
     "status": 201,

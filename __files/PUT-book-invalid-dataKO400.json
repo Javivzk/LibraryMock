@@ -1,16 +1,4 @@
 {
-  "request": {
-    "method": "PUT",
-    "urlPattern": "/book/([0-9]+)",
-    "headers": {
-      "Content-Type": "application/json"
-    }
-  },
-  "response": {
-    "status": 400,
-    "headers": {
-      "Content-Type": "text/plain"
-    },
-    "body": "Invalid data"
-  }
+  "error": "Bad Request",
+  "message": "El parámetro proporcionado es incorrecto."
 }

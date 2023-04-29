@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "DELETE",
-    "urlPattern": "/book/[0-9]+"
+    "url": "/book/2"
   },
   "response": {
-    "status": 404,
+    "status": 400,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "DELETE-eliminar-libro-prestamos-pendientesKO404.json"
+    "bodyFileName": "DELETE-eliminar-libro-prestamos-pendientesKO400.json"
   }
 }

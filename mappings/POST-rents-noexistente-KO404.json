@@ -1,10 +1,10 @@
 {
   "request": {
     "method": "POST",
-    "url": "/rents"
+    "url": "/rents/3"
   },
   "response": {
-    "status": 400,
+    "status": 404,
     "headers": {
       "Content-Type": "application/json"
     },

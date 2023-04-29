@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "PUT",
-    "urlPathPattern": "/stock/([0-9]+)"
+    "urlPathPattern": "/stock/3"
   },
   "response": {
     "status": 404,

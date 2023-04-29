@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "PUT",
-    "url": "/library"
+    "url": "/library/invalid"
   },
   "response": {
     "status": 400,

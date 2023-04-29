@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "PATCH",
-    "url": "/stock/123"
+    "url": "/stock/1"
   },
   "response": {
     "status": 200,

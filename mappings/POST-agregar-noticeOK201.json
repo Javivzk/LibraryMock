@@ -1,11 +1,11 @@
 {
   "request": {
     "method": "POST",
-    "url": "/notices"
+    "url": "/notices/1"
   },
   "response": {
     "status": 201,
-    "bodyFileName": "addNoticeResponse.json",
+    "bodyFileName": "POST-agregar-noticeOK201.json",
     "headers": {
       "Content-Type": "application/json"
     }

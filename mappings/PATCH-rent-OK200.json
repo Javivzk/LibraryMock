@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "PATCH",
-    "urlPattern": "/rent/([0-9]+)"
+    "urlPattern": "/rent/1"
   },
   "response": {
     "status": 200,

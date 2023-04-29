@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "PUT",
-    "urlPattern": "/book/([0-9]+)"
+    "urlPattern": "/book/1"
   },
   "response": {
     "status": 200,

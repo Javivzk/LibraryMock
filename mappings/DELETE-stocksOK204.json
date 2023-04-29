@@ -1,13 +1,12 @@
 {
   "request": {
     "method": "DELETE",
-    "urlPattern": "/stock/[0-9]+"
+    "urlPattern": "/stock/1"
   },
   "response": {
     "status": 204,
     "headers": {
       "Content-Type": "application/json"
-    },
-    "bodyFileName": "DELETE-stocksOK204.json"
+    }
   }
 }

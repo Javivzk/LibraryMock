@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "PATCH",
-    "url": "/user/123"
+    "url": "/user/9000"
   },
   "response": {
     "status": 400,

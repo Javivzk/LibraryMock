@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "PATCH",
-    "urlPattern": "/library/([0-9]+)"
+    "url": "/library/2"
   },
   "response": {
     "status": 400,
